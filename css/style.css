@@ -1,0 +1,152 @@
+body {
+  padding-top: 50px;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 0px;
+}
+
+.jumbotron {
+  background-image: url(https://www.dropbox.com/s/l8m7q0yj1lj5jyc/home-office-336378_1920-min.jpg?raw=1);
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #337AB7;
+  text-shadow: black 0.3em 0.3em 0.3em;
+  text-align: center;
+  font-weight: heavy;
+  margin: 0px !important;
+}
+
+.navbar-brand {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  font-size: 28px;
+  color: #fff!important;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #fff!important;
+}
+
+.blue-text {
+  color: #337AB7!important;
+}
+
+#header h1 {
+  margin-top: 0;
+  margin-bottom: 10;
+  font-size: 65px;
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+#header h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 45px;
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+#header p {
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  max-width: 80%;
+  font-size: 25px;
+  font-weight: 900;
+  color: #FFAC3A;
+  text-shadow: black 0.1em 0.1em 0.1em;
+
+}
+
+.social-icons i {
+  line-height: 100px;
+  display: inline-block;
+}
+
+.social-icons a {
+  margin: 10px;
+  font-size: 45px;
+  display: inline-block;
+}
+
+#about {
+  background: #FFAC3A;
+  padding: 30px;
+}
+
+#about p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#about li {
+  display: flex;
+  margin-top: 5%;
+  margin-left: 50%;
+  margin-right: auto;
+  text-align: left;
+  font-weight: bold;
+}
+
+.larger-font {
+  font-size: 36px;
+  color: #000;
+}
+
+.smaller-font {
+  color: #000;
+  font-size: 20px;
+}
+
+#portfolio {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.btn-primary {
+  background: #337BB7;
+  color: #ffffff;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+  background: #4442C2;
+}
+
+.btn-primary:active,
+.btn-primary.active {
+  background: #4442C2;
+  box-shadow: none;
+}
+
+#contact {
+  background: #FFCF3A;
+  font-size: 36px;
+  text-align: left;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+}
+
+.icons {
+  padding-left: 20%;
+  padding-top: 2.5%;
+}
+
+.icons a {
+  color: #000;
+}
